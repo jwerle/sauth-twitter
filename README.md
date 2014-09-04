@@ -1,4 +1,4 @@
 sauth-twitter
 =============
 
-Instagram sauth strategy
+Twitter sauth strategy
