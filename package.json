@@ -1,0 +1,28 @@
+{
+  "name": "sauth-twitter",
+  "version": "0.0.1",
+  "description": "Twitter sauth strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jwerle/sauth-twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "sauth"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwerle/sauth-twitter/issues"
+  },
+  "homepage": "https://github.com/jwerle/sauth-twitter",
+  "dependencies": {
+    "oauth": "^0.9.12",
+    "sauth": "0.0.3",
+    "superagent": "^0.18.2"
+  }
+}
