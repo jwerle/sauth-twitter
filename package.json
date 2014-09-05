@@ -22,7 +22,6 @@
   "homepage": "https://github.com/jwerle/sauth-twitter",
   "dependencies": {
     "oauth": "^0.9.12",
-    "sauth": "0.0.3",
-    "superagent": "^0.18.2"
+    "sauth": "0.0.3"
   }
 }

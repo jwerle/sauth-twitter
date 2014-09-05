@@ -4,7 +4,6 @@
  */
 
 var Strategy = require('sauth/strategy')
-  , agent = require('superagent')
   , qs = require('querystring')
   , url = require('url')
   , http = require('http')
